@@ -3,6 +3,6 @@ The project works with aerospace component data, high number of part removals en
 
 This project deals with the historical data and tries to predict the parts failure on component level using survival analysis to avoid the mechanical induced disruptions.
 
-[View Data Pipeline Notebook as HTML](https://htmlpreview.github.io/?https://github.com/Shubhammalik/component_failure_analysis/blob/main/report/component_failure_data_processing.html) {crtl + click to open in new tab}
+[View Data Pipeline Notebook as HTML](https://htmlpreview.github.io/?https://github.com/Shubhammalik/component_failure_analysis/blob/main/report/component_failure_data_processing.html) {crtl + click}
 
-[View Model Pipeline Notebook as HTML](https://htmlpreview.github.io/?https://github.com/Shubhammalik/component_failure_analysis/blob/main/report/component_failure_model.html)  {crtl + click to open in new tab}
+[View Model Pipeline Notebook as HTML](https://htmlpreview.github.io/?https://github.com/Shubhammalik/component_failure_analysis/blob/main/report/component_failure_model.html)  {crtl + click}
